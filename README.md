@@ -13,7 +13,7 @@ if theres no mods folder just make one
 # If you want these mods to be sepreated
 1. go in minecraft launcher 
 2. edit 1.8.9
-3. select game directory
+3. browse game directory
 4. make a new folder
 5. launch the game (for the game to creat individual folder including mods folder)
 6. close minecraft and put the mods into the mods folder
